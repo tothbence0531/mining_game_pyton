@@ -1,0 +1,3 @@
+database for ores, items
+shop for upgrades
+sharpening the pickaxe costs some money
